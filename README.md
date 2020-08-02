@@ -1,2 +1,2 @@
 # Noise
-https://id-kaitonote.github.io/Noise/dest
+https://id-kaitonote.github.io/Noise/dest/
